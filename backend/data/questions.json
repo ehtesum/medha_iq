@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MR001",
+    "domain": "matrix_reasoning",
+    "difficulty": -1.0,
+    "discrimination": 1.0,
+    "question_text": "Which of the following patterns completes the sequence? (A, B, C, D)",
+    "image": null,
+    "choices": ["A", "B", "C", "D"],
+    "correct_answer": "C"
+  },
+  {
+    "id": "MR002",
+    "domain": "matrix_reasoning",
+    "difficulty": 0.5,
+    "discrimination": 1.2,
+    "question_text": "What is the next shape in the pattern? (Square, Circle, Triangle, ...)",
+    "image": null,
+    "choices": ["Square", "Circle", "Triangle", "Hexagon"],
+    "correct_answer": "Square"
+  },
+  {
+    "id": "WM001",
+    "domain": "working_memory",
+    "difficulty": -0.5,
+    "discrimination": 1.1,
+    "question_text": "Recall these numbers in reverse order: 7, 2, 9, 5",
+    "image": null,
+    "choices": ["5, 9, 2, 7", "7, 2, 9, 5", "9, 5, 7, 2", "5, 2, 9, 7"],
+    "correct_answer": "5, 9, 2, 7"
+  },
+  {
+    "id": "WM002",
+    "domain": "working_memory",
+    "difficulty": 1.0,
+    "discrimination": 1.3,
+    "question_text": "Remember these words: Apple, Book, Pen, Sky. What was the third word?",
+    "image": null,
+    "choices": ["Apple", "Book", "Pen", "Sky"],
+    "correct_answer": "Pen"
+  },
+  {
+    "id": "VR001",
+    "domain": "verbal_reasoning",
+    "difficulty": -1.5,
+    "discrimination": 0.8,
+    "question_text": "If 'Dog' is to 'Bark', then 'Cat' is to what?",
+    "image": null,
+    "choices": ["Moo", "Meow", "Caw", "Chirp"],
+    "correct_answer": "Meow"
+  },
+  {
+    "id": "VR002",
+    "domain": "verbal_reasoning",
+    "difficulty": 0.8,
+    "discrimination": 1.5,
+    "question_text": "If 'Light' is the opposite of 'Dark', what is the opposite of 'Warm'?",
+    "image": null,
+    "choices": ["Hot", "Cold", "Heat", "Sun"],
+    "correct_answer": "Cold"
+  },
+  {
+    "id": "QR001",
+    "domain": "quantitative_reasoning",
+    "difficulty": 0.0,
+    "discrimination": 1.0,
+    "question_text": "If 5 apples cost $25, how much do 12 apples cost?",
+    "image": null,
+    "choices": ["$50", "$55", "$60", "$65"],
+    "correct_answer": "$60"
+  },
+  {
+    "id": "QR002",
+    "domain": "quantitative_reasoning",
+    "difficulty": 1.5,
+    "discrimination": 1.4,
+    "question_text": "The ratio of boys to girls in a class is 3:2. If there are 15 boys, how many girls are there?",
+    "image": null,
+    "choices": ["10", "12", "15", "20"],
+    "correct_answer": "10"
+  },
+  {
+    "id": "PS001",
+    "domain": "processing_speed",
+    "difficulty": -0.2,
+    "discrimination": 0.9,
+    "question_text": "How many times does the letter 'A' appear in these words? 'Apple, Banana, Avocado'",
+    "image": null,
+    "choices": ["3", "4", "5", "6"],
+    "correct_answer": "5"
+  },
+  {
+    "id": "PS002",
+    "domain": "processing_speed",
+    "difficulty": 0.7,
+    "discrimination": 1.1,
+    "question_text": "Which pair matches exactly? 1) 74893 - 74893  2) 84923 - 84922",
+    "image": null,
+    "choices": ["1", "2", "Both", "Neither"],
+    "correct_answer": "1"
+  }
+]
